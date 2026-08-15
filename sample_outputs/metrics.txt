@@ -1,0 +1,14 @@
+LPIPS available but skipped (--no-lpips)
+
+image         PSNR (dB)      SSIM     LPIPS
+-------------------------------------------
+sample_00        26.387    0.9576       n/a
+sample_01        24.042    0.9699       n/a
+sample_02        21.670    0.9440       n/a
+sample_03        26.197    0.9829       n/a
+sample_04        26.065    0.9826       n/a
+sample_05        23.800    0.9263       n/a
+-------------------------------------------
+AVERAGE          24.694    0.9605       n/a
+
+6 image pair(s) evaluated.
